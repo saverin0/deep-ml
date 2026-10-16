@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T05:04:30.016Z",
+  "generated_at": "2026-11-01T05:04:31.776Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -39,6 +39,45 @@
       "last_pushed_at": "2025-08-26T21:06:28.139Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:36": {
+      "kind": "problem",
+      "id": "36",
+      "title": "Calculate Accuracy Score",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/36",
+      "path": "problems/0036-calculate-accuracy-score",
+      "first_solved_at": "2026-10-16T15:35:44.537Z",
+      "last_pushed_at": "2026-10-16T15:35:44.537Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:46": {
+      "kind": "problem",
+      "id": "46",
+      "title": "Implement Precision Metric",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/46",
+      "path": "problems/0046-implement-precision-metric",
+      "first_solved_at": "2026-10-16T16:01:47.841Z",
+      "last_pushed_at": "2026-10-16T16:01:47.841Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:52": {
+      "kind": "problem",
+      "id": "52",
+      "title": "Implement Recall Metric in Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/52",
+      "path": "problems/0052-implement-recall-metric-in-binary-classification",
+      "first_solved_at": "2026-10-16T16:11:24.668Z",
+      "last_pushed_at": "2026-10-16T16:11:24.668Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
