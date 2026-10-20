@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T05:04:33.528Z",
+  "generated_at": "2026-11-01T05:04:35.062Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -91,6 +91,58 @@
       "last_pushed_at": "2026-10-19T12:49:42.380Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:75": {
+      "kind": "problem",
+      "id": "75",
+      "title": "Generate a Confusion Matrix for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/75",
+      "path": "problems/0075-generate-a-confusion-matrix-for-binary-classification",
+      "first_solved_at": "2026-10-20T18:02:18.292Z",
+      "last_pushed_at": "2026-10-20T18:02:18.292Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:72": {
+      "kind": "problem",
+      "id": "72",
+      "title": "Calculate Jaccard Index for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/72",
+      "path": "problems/0072-calculate-jaccard-index-for-binary-classification",
+      "first_solved_at": "2026-10-20T19:31:32.996Z",
+      "last_pushed_at": "2026-10-20T19:31:32.996Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:73": {
+      "kind": "problem",
+      "id": "73",
+      "title": "Calculate Dice Score for Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/73",
+      "path": "problems/0073-calculate-dice-score-for-classification",
+      "first_solved_at": "2026-10-20T19:41:56.433Z",
+      "last_pushed_at": "2026-10-20T19:41:56.433Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:1217": {
+      "kind": "problem",
+      "id": "1217",
+      "title": "Compute TPR and FPR from Classifications",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1217",
+      "path": "problems/1217-compute-tpr-and-fpr-from-classifications",
+      "first_solved_at": "2026-10-20T20:03:31.079Z",
+      "last_pushed_at": "2026-10-20T20:03:31.079Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }
