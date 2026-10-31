@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**14** solved · 14 problems · 0 labs · 0 math
+**15** solved · 15 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2026-10-16 | [solution](problems/0036-calculate-accuracy-score) |
+| [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2026-10-31 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Calculate Dice Score for Classification](https://www.deep-ml.com/problems/73) | easy | 2026-10-20 | [solution](problems/0073-calculate-dice-score-for-classification) |
 | [Calculate F1 Score from Predicted and True Labels](https://www.deep-ml.com/problems/91) | easy | 2026-10-19 | [solution](problems/0091-calculate-f1-score-from-predicted-and-true-labels) |
 | [Calculate Jaccard Index for Binary Classification](https://www.deep-ml.com/problems/72) | easy | 2026-10-20 | [solution](problems/0072-calculate-jaccard-index-for-binary-classification) |
